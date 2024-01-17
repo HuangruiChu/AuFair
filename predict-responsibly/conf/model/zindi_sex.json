@@ -1,0 +1,14 @@
+{
+    "name": "zindi",
+    "attr0_name": "Female",
+    "attr1_name": "Male",
+    "npzfiles": {"inconsistent": "zindi/zindi4_sex.npz"},
+    "use_attr": false,
+    "adim": 1,
+    "ydim": 1,
+    "xdim": 47,
+    "hidden_layer_specs": {
+            "layer_sizes": [7],
+            "activ": "sigmoid"
+    }
+}

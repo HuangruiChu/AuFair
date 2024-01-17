@@ -1,0 +1,14 @@
+{
+    "name": "adult",
+    "attr0_name": "Male",
+    "attr1_name": "Female",
+    "npzfiles": {"inconsistent": "adult/adult1_sex.npz"},
+    "use_attr": false,
+    "adim": 1,
+    "ydim": 1,
+    "xdim": 125,
+    "hidden_layer_specs": {
+            "layer_sizes": [7],
+            "activ": "sigmoid"
+    }
+}

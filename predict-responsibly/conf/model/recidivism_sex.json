@@ -1,0 +1,14 @@
+{
+    "name": "recidivism",
+    "attr0_name": "Male",
+    "attr1_name": "Female",
+    "npzfiles": {"inconsistent": "compas/recidivism4_sex.npz"},
+    "use_attr": false,
+    "adim": 1,
+    "ydim": 1,
+    "xdim": 528,
+    "hidden_layer_specs": {
+            "layer_sizes": [7],
+            "activ": "sigmoid"
+    }
+}
